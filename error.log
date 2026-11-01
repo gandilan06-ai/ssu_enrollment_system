@@ -1,0 +1,12 @@
+[12-Sep-2026 19:14:17 Asia/Manila] DB Connection Error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[12-Sep-2026 19:14:58 Asia/Manila] DB Connection Error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[12-Sep-2026 19:15:02 Asia/Manila] DB Connection Error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[12-Sep-2026 19:15:27 Asia/Manila] DB Connection Error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[12-Sep-2026 19:15:36 Asia/Manila] DB Connection Error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[13-Sep-2026 18:11:02 Asia/Manila] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 2006 MySQL server has gone away in C:\xampp2\htdocs\ssu_enrollment_system\auth\process_login.php:42
+Stack trace:
+#0 C:\xampp2\htdocs\ssu_enrollment_system\auth\process_login.php(42): PDO->prepare('SELECT * FROM u...')
+#1 {main}
+  thrown in C:\xampp2\htdocs\ssu_enrollment_system\auth\process_login.php on line 42
+[13-Sep-2026 18:11:06 Asia/Manila] DB Connection Error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[13-Sep-2026 18:12:27 Asia/Manila] DB Connection Error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
